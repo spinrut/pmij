@@ -1,0 +1,76 @@
+Help:
+
+Movement: Arrow keys to move
+
+Other Controls`: Spacebar to shoot
+
+Power-Ups: Move Pac-Man over a power-up to collect it. When Pac-Man collects a power-up, it is activated.
+
+Power-ups include:
+
+        Pac-Dots:
+
+            Run-of-the-mill pellets; Pac-Man must collect all of them to progress to the next level.
+
+        Power Pellets:
+
+            In PMiJ, Power Pellets have the same effect as in the original Pac-Man
+
+        Fake Pellets:
+
+            Fake Pellets look like normal Power Pellets, but are, well, fake.
+
+        Power Stars*:
+
+            Power Stars give you a score multiplier.
+
+        Full Heal*:
+
+            Full Heals heal the player.
+
+        Banana*:
+
+            Bananas heal the player.
+
+        Cherry Bomb*:
+
+            Cherry Bombs give the player 2 bombs.
+
+        Strawberry*:
+
+            Strawberries heal the player.
+
+        Pineapple Warhead*:
+
+            Pineapple Warheads give the player a warhead that kills all enemies on screen.
+
+        Ice Ball^:
+
+            Ice Balls turn normal Balls into ones that freeze ghosts.
+
+        Fire Ball^:
+
+            Fire Balls turn normal Balls into ones that set stuff on fire.
+
+        Bouncy Ball^:
+
+            Bouncy Balls turn normal Balls into ones that bounce.
+
+        Sticky Ball^ (Activated power-up, Survival on Hard or Insane only):
+
+            Sticky Balls turn normal Balls into ones that make sticky spots.
+
+        Light Ball^ (Activated power-up, Survival on Hard or Insane only):
+
+            Light Balls turn normal Balls into ones that make ghosts confused.
+
+        Dark Ball^:
+
+            Dark Balls turn normal Balls into ones that infect ghosts.
+
+
+The Player: The player is Pac-Man. Players have a maximum of 3 hearts in Arcade and Classic and 1 heart in Survival.
+
+*This is available in Arcade mode only.
+^This is available in Survival mode only.
+`This is available in Arcade and Survival mode, but not in Classic.
